@@ -37,7 +37,7 @@ function updateFilters() {
     let id = element.attr("id");
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
-    if (value != '' ){
+    if (value !== '' ){
       filterList[id]=value;
     }else
     {
