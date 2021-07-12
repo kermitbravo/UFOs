@@ -24,7 +24,7 @@ In order for Dana to be able to leverage this website appropriately, she needs t
 
 ## Summary
 
-Onew drawback of this website design would be that in order for the users to filter they would have to know possible values and that the search criteria needs to exactly match what the dataset contains.
+One drawback of this website design would be that in order for the users to filter they would have to know possible values and that the search criteria needs to exactly match what the dataset contains.
 e.g.
 
 - The filter search boxes are case sensitive.
